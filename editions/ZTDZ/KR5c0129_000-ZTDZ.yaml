@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0129/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: 南華眞經章句音義叙習一
+  hash: sha256:bc21b4ed9f7dc086a763e125465d8dab1d2cf77a81aa99e2ba2607ee5d431496
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0129_SJB_000-150894a, image: sjb/15/150894a.png}
+body:
+  text: 碧虚子造太史公曰莊子嘗爲蒙漆園吏著書十餘萬言漢書藝文志莊子五十二篇隋書經籍志向秀注二十卷郭象注三十三卷又梁曠有南華論二十五卷陶隱居眞誥序録曰莊子受長桑公微言撰内篇七卷以三言爲題者當是法璇璣之環轉三景之焕明故造眞誥編爲七目亦用三字爲標隱居著述蓋有所宗焉唐天寳中詔册莊子宜依舊號曰南華眞經是知南華之義所來尚矣僕自𩮀角好誦是經非事趣時破卷而已斯乃道家之業務在長生乆視毁譽兩忘而自信於道矣豈與有待者同日而論哉今述章句復成七卷謂離章辯句委曲枝派也以逍遥游齊物論養生主人間世德充符大宗師應帝王七篇爲内實漆園命名之篇也其次止以篇首兩字或三字爲題故有外篇十五雜篇十一或謂外雜篇爲郭象所删修又按陶隱居曰莊子作内外篇而不言其雜篇復覽前輩注解例多越略殊難稽考今輒於二十六篇之内取兩字標目而一段成篇者得駢拇馬蹏胠篋刻意繕性說劍漁父七篇以配内立名而曰外篇其次讓王盜跖在宥天地天道天運秋水至樂達生山木田子方知北游庚桑楚徐无鬼則陽外物寓言列御寇天下十有九篇比乎内外之日則奇偶交貫取其人物之名則條列自異考其理則符陰陽之數究其義則契言默之微故曰雜篇今於三十三篇之内分作二百五十五章隨指命題號曰章句逐章之下音家解義釋說事類標爲章義書成嘗數其正經得六萬五千九百二十三言合馬遷之所記十亡其四矣復將中太一宫寳文統録内有莊子數本及笈中手鈔諸家同異校得國子監景德四年印本不同共三百四十九字仍按所出别疏闕誤一卷以辯疑謬公孫龍三篇以備討尋烏乎後之學者不幸不見漆園簡莢之完篇章之大體妙指浸爲諸家裂元豐甲子歲上元日叙
+  hash: sha256:c5d58ca5df2b817b0befcb7d2f412a2f393086d4f63e930ec8e6bd5b1413c7b2
+metadata:
+  title: 南華真經章句音義
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:31:35.780560'
+  source:
+    repository: kanripo
+    path: KR5c0129/KR5c0129_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:3406f272b6bf2eba858bcf74605fde680d11bd621783dab91db16355158c21fa
